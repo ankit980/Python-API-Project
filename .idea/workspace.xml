@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8be8617a-dd92-41e8-aadb-47f5ca21037d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Udemy_RESTAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BatchFile/AllLibray.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataDriven/Library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataDriven/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataDriven/testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/DeleteUser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/FetchUserData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/Fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/GetHeadder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/Get_Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/PUT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/end_to_end_Testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/test_AddNewStudent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/test_Add_Student_MultipleData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/test_TC_001_ValidateRegistration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/test_basic_Authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/test_oAuthentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Get_Request/test_request_chaining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/03ee0257-2bb2-43bb-b348-a42cbbd00216-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/0ecb77f3-e14f-4929-9f17-9e4310668a2e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/33f14826-6169-4b07-a141-3c326950fc14-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/47730420-9afb-4061-8fab-614afba0d6fc-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/48e9cea5-f8b6-4083-8955-eff4ef273463-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/4e18ccf8-3b88-4ec9-b7ee-57ba58c89e8e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/56d5a33d-d4c0-4c3b-831d-ef27e8326a60-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/5ace767a-b7bb-435d-b885-7b516fb6a19c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/71af62b9-f3b7-4839-9eed-4bb98685b04a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/8106634a-857b-42c8-8096-d3b5f80a0876-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/92af1c92-59cc-4f83-8c1f-13f00b555c7f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/96c8c4ae-7549-4b04-be9a-7cfad166ad15-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/a1864232-ab40-4787-9c6b-26948d374c3c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/c5157759-2909-431b-bba2-36bb2ab3beb8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/c8ddacb1-4cc8-4d78-94b5-974874065d50-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/cab051ff-f971-4e3e-9285-b27d778e2058-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/cacec998-0c91-48f5-843f-33e7bd5d3b66-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/da0720fe-1f7d-49a5-bc8a-f38ee54a4bf9-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/ed4924cf-c22d-4b26-95bc-1b08016e5150-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/fd4046bb-d2c0-4e71-9653-f514a949ea20-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dK964MDx3OQqxE74iLjVOlLcdy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Get_Request" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ankit\PycharmProjects\Udemy_RESTAPI\Get_Request" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for end_to_end_Testing.test_Add_new_data">
+    <configuration name="GetHeadder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_RESTAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Get_Request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_Request/GetHeadder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PUT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_RESTAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Get_Request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_Request/PUT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_TC_001_ValidateRegistration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_RESTAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Get_Request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Get_Request/test_TC_001_ValidateRegistration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for end_to_end_Testing.test_Add_new_data" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_RESTAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Get_Request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;end_to_end_Testing.test_Add_new_data&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in end_to_end_Testing.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Udemy_RESTAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Get_Request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Get_Request/end_to_end_Testing.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for end_to_end_Testing.test_Add_new_data" />
+        <item itemvalue="Python tests.pytest in end_to_end_Testing.py" />
+        <item itemvalue="Python.test_TC_001_ValidateRegistration" />
+        <item itemvalue="Python.PUT" />
+        <item itemvalue="Python.GetHeadder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8be8617a-dd92-41e8-aadb-47f5ca21037d" name="Default Changelist" comment="" />
+      <created>1592162738116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592162738116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Inspections" timestamp="1593881722309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1593881722309" />
+    <state x="448" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592412813827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592412813827" />
+    <state x="402" y="0" key="#pytest_for_test_TC_001_ValidateRegistration.test_registration_valid_data" timestamp="1592428234618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#pytest_for_test_TC_001_ValidateRegistration.test_registration_valid_data/0.0.1366.728@0.0.1366.728" timestamp="1592428234618" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1592413242660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592413242660" />
+    <state width="1344" height="271" key="GridCell.Tab.0.bottom" timestamp="1593761014130">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="271" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593761014130" />
+    <state width="1344" height="271" key="GridCell.Tab.0.center" timestamp="1593761014130">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="271" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593761014130" />
+    <state width="1344" height="271" key="GridCell.Tab.0.left" timestamp="1593761014129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="271" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593761014129" />
+    <state width="1344" height="271" key="GridCell.Tab.0.right" timestamp="1593761014130">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="271" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593761014130" />
+    <state width="1344" height="271" key="GridCell.Tab.1.bottom" timestamp="1593761018337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="271" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593761018337" />
+    <state width="1344" height="271" key="GridCell.Tab.1.center" timestamp="1593761018337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="271" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593761018337" />
+    <state width="1344" height="271" key="GridCell.Tab.1.left" timestamp="1593761018337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="271" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593761018337" />
+    <state width="1344" height="271" key="GridCell.Tab.1.right" timestamp="1593761018337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="271" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593761018337" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1593891956964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593891956964" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1593760439067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1593760439067" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1592415037468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1592415037468" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1593971501131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593971501131" />
+    <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593758125855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1593758125855" />
+  </component>
+</project>
